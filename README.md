@@ -2,6 +2,7 @@
 
 Hi there, I didn't see you there, I'm **Erick Jacomes**
 I'm a Senior at Fairleigh Dickinson University, studying Computer Science with a concentration in Game and Mobile Development
+
 I hope for one day to be a game developer creating everything in my imagination
 
 
