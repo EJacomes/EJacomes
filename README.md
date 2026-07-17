@@ -3,7 +3,11 @@
 Hi there, I didn't see you there, I'm **Erick Jacomes**
 I'm a Senior at Fairleigh Dickinson University, studying Computer Science with a concentration in Game and Mobile Development
 
-I hope for one day to be a game developer creating everything in my imagination
+I enjoy creating things, its the reason why I pursued this degree in the first place. Programming enables me to express who I am and whats on my mind. Everyday I seek to create and craft new programs, new experiences to grow as an artist because I don't see programming as a means to an end but rather an art form. I have develop many things during my time coding, I mean this is basically a collection of my art so just take a look at the works I have done.
+
+Besides the works that I have produced and studying to get my Computer Science degree, I am currently involved with Break Through Tech learning Machine Learning and neural networks. If you are curious to learn then I will provide you with the link [https://www.breakthroughtech.org/].
+
+
 
 
 <!--
