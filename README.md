@@ -9,7 +9,7 @@ Besides the works that I have produced and studying to get my Computer Science d
 
 P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me: [https://www.linkedin.com/in/erick-jacomes-9270a12a1/]
 
-
+## My Tech Stack
 
 
 <!--
