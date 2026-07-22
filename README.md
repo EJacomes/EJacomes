@@ -11,7 +11,7 @@ P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me
 
 ## My Tech Stack
 
-## Here are the programming languages that I have frequently used over the years
+### Here are the programming languages that I have frequently used over the years
 
 <!--
 **EJacomes/EJacomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
