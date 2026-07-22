@@ -13,7 +13,7 @@ P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me
 
 ### Here are the programming languages that I have frequently used over the years
 
-![python logo](<Git Images/python_logo_icon_168886.png>){width=50px}
+![python logo|50](<Git Images/python_logo_icon_168886.png>)
 
 
 <!--
