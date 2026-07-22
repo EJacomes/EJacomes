@@ -22,6 +22,8 @@ P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me
 #### Application development
 <img src="Git Images/DirectX.webp" width="100" alt="DirectX logo"> <img src="Git Images/Android_Studio_Logo_(2023).svg.png" width="100" alt="Android Studio logo">
 
+#### Cloud Computing
+
 
 <!--
 **EJacomes/EJacomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
