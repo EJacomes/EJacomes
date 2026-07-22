@@ -20,7 +20,7 @@ P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me
 <img src="Git Images/pandas-logo.png" width="100" alt="pandas logo"> <img src="Git Images/NumPy_logo_2020.svg.png" width="100" alt="numpy logo"> <img src="Git Images/Scikit_learn_logo_small.svg.png" width="100" alt="scikit learn logo"> <img src="Git Images/sphx_glr_logos2_003.png" width="100" alt="mathplotlib logo">
 
 #### Application development
-<img src="Git Images/DirectX.webp" width="100" alt="DirectX logo">
+<img src="Git Images/DirectX.webp" width="100" alt="DirectX logo"> <img src="Git Images/Android_Studio_Logo_(2023).svg.png" width="100" alt="Android Studio logo">
 
 
 <!--
