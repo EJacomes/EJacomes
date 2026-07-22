@@ -25,6 +25,9 @@ P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me
 #### Cloud Computing
 <img src="Git Images/Amazon_Web_Services_Logo.svg.png" width="100" alt="AWS logo">
 
+## Certifications
+Machine Learning Foundations - Cornell University (July 2026)
+
 <!--
 **EJacomes/EJacomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
