@@ -12,7 +12,7 @@ P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me
 ## My Tech Stack
 
 ### Here are the programming languages that I have frequently used over the years
-<img src="Git Images/python_logo_icon_168886.png" width="100" alt="python logo"> <img src="Git Images/java_original_logo_icon_146458.png" width="100" alt="java logo"> <img src="330px-ISO_C++_Logo.svg.webp" width="100" alt="C++ logo">
+<img src="Git Images/python_logo_icon_168886.png" width="100" alt="python logo"> <img src="Git Images/java_original_logo_icon_146458.png" width="100" alt="java logo"> <img src="Cpp-logo.png" width="100" alt="C++ logo">
 
 
 <!--
