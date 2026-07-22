@@ -15,6 +15,8 @@ P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me
 <img src="Git Images/python_logo_icon_168886.png" width="100" alt="python logo"> <img src="Git Images/java_original_logo_icon_146458.png" width="100" alt="java logo"> <img src="Git Images/Cpp-logo.png" width="100" alt="C++ logo"> <img src="Git Images/html-logo.png" width="100" alt="html logo"> <img src="Git Images/css3-logo-png-transparent.png" width="100" alt="css logo"> <img src="Git Images/logo-javascript-logo-png-transparent.png" width="100" alt="javascript logo"> <img src="Git Images/php-logo.png" width="100" alt="php logo">
 
 ### Here are the frameworks/libraries I have been working with
+
+#### Data Science & ML
 <img src="Git Images/pandas-logo.png" width="100" alt="pandas logo"> <img src="Git Images/NumPy_logo_2020.svg.png" width="100" alt="numpy logo"> <img src="Git Images/Scikit_learn_logo_small.svg.png" width="100" alt="scikit learn logo">
 
 
