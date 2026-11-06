@@ -3,11 +3,17 @@
 Hi there, I didn't see you there, I'm **Erick Jacomes**
 I'm a Senior at Fairleigh Dickinson University, studying Computer Science with a concentration in Game and Mobile Development.
 
-I enjoy being able to creating and solve things, Whether that be from creating websites or apps to performing data analysis and model training. I want to be in a spot that will allow to think creatively while producing soemthing at the same time and computer science is the means to channel this creative energy. My passion for creative programming has lead me to many opportunities including and not limited to, Break Though Tech. <!--As of right now-->
+I enjoy being able to creating and solve things, Whether that be from creating websites or apps to performing data analysis and model training. I want to be in a spot that will allow to think creatively while producing soemthing at the same time and computer science is the means to channel this creative energy. My passion for creative programming has lead me to many opportunities including and not limited to, Break Though Tech. As of right now, I am working on a project in a group of seven that utilizes machine learning and AI to create a model that reviews software standards, if you want to know more then please check out the **Feature Project** section.
 
-Besides the works that I have produced and studying to get my Computer Science degree, I am currently involved with Break Through Tech learning Machine Learning and neural networks. Break Through Tech helps me will learning the skills needed to make it this day and age. If you are curious to learn then I will provide you with the link [https://www.breakthroughtech.org/]
+## Featured Project: Aerospace Compliance Copliot [https://github.com/Break-Through-Tech/Aerospace-1B-compliance-copilot/blob/main/README.md]
 
-## Featured Project: 
+- What We Did: Extracted text from various files using PathLib and formatting the text into dataframes using Pandas in order to train a model that serves to review software standards against NASA engineering standards using a mix of a RAG based pipline and tool-calling LLM Agent.
+
+- Tools: Python, Pandas, PathLib, Numpy
+
+- Result: For the RAG pipeline, the higher the k value, the more accurate the model is able to extract the correct engineering model for the software standard that its reviewing. For the tool-calling LLM Agent, it was found there was a difference of opinion in 16 requirements out of the 54 used for training where the LLM agent would pass the requirement while the RAG pipeline would match it the suggested engineering requirement that it would need improvement and vice verse. This would suggests that adjusts needs to be made on how the RAG and LLM agent perform its grading.
+
+If you want to learn about Break Through Tech then I recommand to check out the following link to learn more: [https://www.breakthroughtech.org/]
 
 Beside from what you see from above, I want to explore all of the paths that are avalible to me. I want to create and program all within the field of Game Development, Model development, and Software engineering. If you want to see how my thought process works then feel free to check out my GitHub.
 
