@@ -9,6 +9,8 @@ Besides the works that I have produced and studying to get my Computer Science d
 
 P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me: [https://www.linkedin.com/in/erick-jacomes-9270a12a1/]
 
+P.S.S if you want another way to contact me then you can reach out via my email: erijacomes@gmail.com
+
 ## My Tech Stack
 
 ### Here are the programming languages that I have frequently used over the years
