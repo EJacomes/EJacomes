@@ -1,11 +1,15 @@
 ## Welcome, you found me!
 
 Hi there, I didn't see you there, I'm **Erick Jacomes**
-I'm a Senior at Fairleigh Dickinson University, studying Computer Science with a concentration in Game and Mobile Development
+I'm a Senior at Fairleigh Dickinson University, studying Computer Science with a concentration in Game and Mobile Development.
 
-I enjoy creating things, its the reason why I pursued this degree in the first place. Programming enables me to express who I am and whats on my mind. Everyday I seek to create and craft new programs, new experiences to grow as an artist because I don't see programming as a means to an end but rather an art form. I have develop many things during my time coding, I mean this is basically a collection of my art so just take a look at the works I have done. After my time at University, I start an indie game development career while working as a soft engineer on the side to fuel my passionate of programming from the real world.
+I enjoy being able to creating and solve things, Whether that be from creating websites or apps to performing data analysis and model training. I want to be in a spot that will allow to think creatively while producing soemthing at the same time and computer science is the means to channel this creative energy. My passion for creative programming has lead me to many opportunities including and not limited to, Break Though Tech. <!--As of right now-->
 
 Besides the works that I have produced and studying to get my Computer Science degree, I am currently involved with Break Through Tech learning Machine Learning and neural networks. Break Through Tech helps me will learning the skills needed to make it this day and age. If you are curious to learn then I will provide you with the link [https://www.breakthroughtech.org/]
+
+## Featured Project: 
+
+Beside from what you see from above, I want to explore all of the paths that are avalible to me. I want to create and program all within the field of Game Development, Model development, and Software engineering. If you want to see how my thought process works then feel free to check out my GitHub.
 
 P.S if you ever want to reach out to me, my LinkedIn is a good place to reach me: [https://www.linkedin.com/in/erick-jacomes-9270a12a1/]
 
